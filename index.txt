@@ -1,6 +1,8 @@
-HELLO WORLD
+git status
+git add
+git commit -m ""
 
+git push origin master
 
-
-
-meo meo meo hentai meo meo 
+git clone 
+git pull origin master
